@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**odctte/odctte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align="center">
+
+######  [𝗔𝗧𝗔](https://cured.atabook.org/)
+
+<div align="center">
+  
+<img width="200" height="200" alt="1364f301d7181e2acc516f702c4ce274" src="https://github.com/user-attachments/assets/3246fd64-f99e-48b2-ae1a-baa1ccafe599" />
