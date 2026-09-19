@@ -1,10 +1,9 @@
 
 <div align="center">
 
+######  [𝗔𝗧𝗔](https://cured.atabook.org/)
 
 <div align="center">
 
-######  [𝗔𝗧𝗔](https://cured.atabook.org/)
+[➴](https://github.com/vobyanitsa) ᵃˡˢᵒ ᵐᵉ [➴](https://github.com/prettymaki)
 
-
-[➴](https://github.com/vobyanitsa)
