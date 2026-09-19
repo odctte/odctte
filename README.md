@@ -7,4 +7,4 @@
 ######  [𝗔𝗧𝗔](https://cured.atabook.org/)
 
 
-[➴](https://github.com/odctte)
+[➴](https://github.com/vobyanitsa)
